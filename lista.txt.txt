@@ -1,5 +1,5 @@
 # Tarefas Pendentes
-- [ ] Comprar leite
-- [ ] Estudar para o exame
-- [ ] Limpar o quarto
-- [ ] Fazer exercício
+- [X] Comprar leite
+- [X] Estudar para o exame
+- [X] Limpar o quarto
+- [X] Fazer exercício
